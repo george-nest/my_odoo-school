@@ -5,7 +5,7 @@
 {
     'name': 'School Lesson 6 1',
     'version': '15.0.0.0.1',
-    'category': 'Extra Tools',
+    'category': 'Extra Tools, Operation whis external EDs.'
     'summary': """
         Odoo School
         Lesson 6-1: Master and demo data.
